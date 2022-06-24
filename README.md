@@ -1,8 +1,6 @@
 # Fruit Recognition Project
 
-This project was implemented for the summer internship in HAVELSAN in the summer 2020. The task is to detect fruits in images after classification. 
-
-Classification was implemented firstly, and then object detection was done by these following object detection algorithms. 
+This project was implemented for the summer internship in HAVELSAN in 2020. This project can be seen as beginner-level project. The task was to detect fruits in images after classification. Classification was implemented firstly, and then object detection was done by these following object detection algorithms. 
 
 ## Fundamental Algorithms Used in the Object Detector [1]
 
